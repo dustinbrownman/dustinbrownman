@@ -1,6 +1,6 @@
 Hi! :wave:
 
-- I'm currently working with some amazing folks over at [Github](https://github.com)
+- I'm currently working with some amazing folks over at [GitHub](https://github.com)
 - Formerly @ [Treehouse](https://teamtreehouse.com), [ebay](https://ebay.com), and [New Relic](https://newrelic.com).
 - Links!
   - [Website](https://dustinbrown.dev) (that I never update)
